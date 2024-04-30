@@ -98,8 +98,8 @@ maven打包或者IDE启动服务：
 ✨连续创业多次building in public。 <br/>
 🙈全平台获客工具[**『节点链接』**](https://links.bnyer.cn) 已上线。 <br/>
 🔥[**『节点导航站』-AI工具|独立开发出海|自媒体|跨境电商|广告联盟』**](https://linktre.cc) 🌈现已上线 <br/>
-✨ [**twitter(x)地址**](https://x.com/pennyjoly/status/1783305526119662061?s=46)  <br/>
-✨ [**小红书地址**](https://www.xiaohongshu.com/user/profile/600d92e3000000000100bbde?xhsshare=CopyLink&appuid=600d92e3000000000100bbde&apptime=1714458726)  <br/>
+✨ [**twitter(x)：Kevin不会写代码**](https://x.com/pennyjoly/status/1783305526119662061?s=46)  <br/>
+✨ [**小红书：Kevin不会写代码**](https://www.xiaohongshu.com/user/profile/600d92e3000000000100bbde?xhsshare=CopyLink&appuid=600d92e3000000000100bbde&apptime=1714458726)  <br/>
 ✨ [**微信公众号：次元节点**](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg2NjkwNzk5Mw==&scene=124#wechat_redirect)  <br/>
 🎉不定时分享好用免费🆓工具及创业心得~ <br/>
 
