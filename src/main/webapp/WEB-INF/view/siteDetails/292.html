@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<!--header头部-->
+@include("/common/_header.html"){}
+<link href="${ctxPath}/static/css/bootstrap.min.css?v=3.3.6" rel="stylesheet">
+<link href="${ctxPath}/static/css/font-awesome.css?v=4.7.0" rel="stylesheet">
+<link href="${ctxPath}/static/css/style.css?v=4.1.0" rel="stylesheet">
+<link href="${ctxPath}/static/css/app.css" rel="stylesheet">
+<link href="${ctxPath}/static/css/siteDetails.css" rel="stylesheet">
+<script src="${ctxPath}/static/js/bootstrap.min.js?v=3.3.6"></script>
+
+
+<body class="page-body">
+<!-- skin-white -->
+<div class="page-container">
+
+    <!--左侧操作栏-->
+    @include("/common/_sidebar.html"){}
+
+
+    <div class="main-content">
+        <nav class="navbar user-info-navbar" role="navigation">
+            <ul class="user-info-menu left-links list-inline list-unstyled">
+                <li class="hidden-sm hidden-xs">
+                    <a href="#" data-toggle="sidebar">
+                        <i class="fa-bars"></i>
+                    </a>
+                </li>
+            </ul>
+
+        </nav>
+
+        <!--中间内容区域-->
+        <div class="container siteDetails-bg">
+            <div class="row">
+                <div class="col-md-5 thumbnail">
+                    <img src="${site.backUrl}" alt="节点链接-短链接制作-你的无风险引流营销黑科技" />
+                </div>
+                <div class="col-md-6 siteDetails-title">
+                    <h1>${site.title}</h1>
+                </div>
+                <div class="col-md-6 siteDetails-desc">
+                    <h3>${site.description}</h3>
+                </div>
+                <div class="col-md-4 siteDetails-btn">
+                    <button type="button" data-umami-event="jumpUrlPage-292" class="btn btn-primary btn-lg btn-block" onclick="window.open('${site.url}','_blank')">Go to page ↓ ~</button>
+                    <!-- 中部广告栏 -->
+                    @include("/common/_site_detailsAd.html"){}
+                </div>
+            </div>
+            <div class="separator"></div>
+            <div class="row">
+                <div class="col-md-6 siteDetails-title">
+                    <h1>介绍</h1>
+                </div>
+                <div class="col-md-12 siteDetails-desc">
+                    <p>${site.descDetails}</p>
+                </div>
+            </div>
+
+            <!--底部广告栏-->
+            @include("/common/_site_bottomAd.html"){}
+        </div>
+
+        <!--底部页签-->
+        <footer class="main-footer sticky footer-type-1">
+            <div class="footer-inner">
+                <!-- Add your copyright text here -->
+                <div class="footer-text">
+                    @include("/common/_site_bottomDesc.html"){}
+                </div>
+            </div>
+        </footer>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $(document).on('click','.sidebar-menu-inner', function(){
+            //点击跳转主页面
+            window.location.href="/";
+        })
+    });
+</script>
+</body>
+</html>
+
