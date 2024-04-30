@@ -1,0 +1,22 @@
+# Tomcat
+server:
+  # 服务器的HTTP端口
+  port: 8090
+  servlet:
+    # 应用的访问路径
+    context-path: /
+    tomcat:
+      # tomcat的URI编码
+      uri-encoding: UTF-8
+      # 连接数满后的排队数，默认为100
+      accept-count: 1000
+
+# Spring
+spring:
+  application:
+    # 应用名称
+    name: Linktre.cc
+  profiles:
+    # 环境配置
+    active: dev
+

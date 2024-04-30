@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://linktre.cc/static/sitemap.XML
