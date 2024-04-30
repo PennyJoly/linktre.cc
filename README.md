@@ -6,6 +6,7 @@ linktre.cc节点导航站的开源版本。一个基于WebStack-Guns的二次开
 3、支持模块化控制文案描述、广告加载；<br/>
 4、支持每月免费10G容量的[**七牛云**](https://s.qiniu.com/faYbqa) 文件存储；<br/>
 ![首页](screen/1.png)
+![首页](screen/5.png)
 
 
 
@@ -69,11 +70,6 @@ maven打包或者IDE启动服务：
 
 在线演示效果: https://linktre.cc
 
-## SEO优化注意事项
-```shell
-文件夹下linktre.cc/src/main/webapp/WEB-INF.view/siteDetails/里的页面均根据数据site表的主键id作为页面名称。新添加页面时请注意保持数据主键id和该页面名称同步。
-```
-
 
 ![主页](screen/2.png)
 
@@ -81,7 +77,10 @@ maven打包或者IDE启动服务：
 
 ![网站](screen/4.png)
 
-
+## SEO优化注意事项
+```shell
+文件夹下linktre.cc/src/main/webapp/WEB-INF.view/siteDetails/里的页面均根据数据site表的主键id作为页面名称。新添加页面时请注意保持数据主键id和该页面名称同步。
+```
 
 ## 感谢
 
