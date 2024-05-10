@@ -1,5 +1,6 @@
 # linktre.cc
 linktre.cc节点导航站的开源版本。一个基于WebStack-Guns的二次开发加工的开源的网址导航网站项目，具备完整的前后台，可以拿来制作自己的网址导航。喜欢的话欢迎踊跃✨✨STAR✨✨<br/>
+[开源仓库工具大全linktre-tools](https://github.com/PennyJoly/linktre-tools)
 在原有项目基础上进行了如下优化完善：<br/>
 1、新增了站点详情页功能；<br/>
 2、更好的支持SEO优化；<br/>
