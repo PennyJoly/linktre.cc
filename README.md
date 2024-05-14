@@ -98,7 +98,7 @@ maven打包或者IDE启动服务：
 各位老板你们好，近期咱们这边上新一款产品，不知道你们平常工作生活中，会不会用到chatgpt4.0，我们即将上新一个openai服务中转站，为了回馈各位老板，该产品价格力求做到全网最低，
 最大能达到0.01人民币兑换100美元token的量，支持openai旗下所有产品。群每增加20人，我发放一个gpt4.0的token出来，感兴趣的老板可以扫描二维码进群了解详情
 
-![alipay](screen/wechat.jpg)
+![alipay](screen/wechat.jpg =600x600)
 
 这里是Kevin，一个🧰大厂裸辞上瘾的独立开发者。<br/>
 ✨连续创业多次building in public。 <br/>
@@ -110,8 +110,10 @@ maven打包或者IDE启动服务：
 🎉不定时分享好用免费🆓工具及创业心得~ <br/>
 
 ## buy me coffee~
-![alipay](screen/apipay.jpg)
-![wechatpay](screen/wechatpay.jpg)
+
+<img src="https://img.bnyer.cn/site/apipay.jpg" alt="img" width="400">
+<img src="https://img.bnyer.cn/site/wechatpay.jpg" alt="img" width="400">
+
 ## License
 
 MIT
