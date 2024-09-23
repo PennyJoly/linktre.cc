@@ -110,10 +110,6 @@ maven打包或者IDE启动服务：
 ✨ [**微信公众号：次元节点**](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg2NjkwNzk5Mw==&scene=124#wechat_redirect)  <br/>
 🎉不定时分享好用免费🆓工具及创业心得~ <br/>
 
-## buy me coffee~
-
-<img src="https://img.bnyer.cn/site/apipay.jpg" alt="img" width="400">
-<img src="https://img.bnyer.cn/site/wechatpay.jpg" alt="img" width="400">
 
 ## License
 
